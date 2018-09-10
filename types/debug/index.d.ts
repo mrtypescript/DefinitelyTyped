@@ -34,5 +34,6 @@ declare namespace debug {
         enabled: boolean;
         log: Function;
         namespace: string;
+        color: string;
     }
 }
